@@ -19,6 +19,8 @@
     "prefix": "app",
     "styles": [
       "../node_modules/ngf-bootstrap/dist/bootstrap.min.css",
+      "../node_modules/primeng/resources/themes/darkness/theme.css",
+      "../node_modules/primeng/resources/primeng.min.css",
       "styles.css"
 
     ],
